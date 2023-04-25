@@ -3,6 +3,12 @@
   "name": "Search Movie",
   "icons": [
     {
+      "src": "movie_icon.ico",
+      "type": "image/ico",
+      "sizes": "256x256",
+      "purpose": "any"
+    },
+    {
       "src": "maskable_icon_x192",
       "type": "image/png",
       "sizes": "192x192",
