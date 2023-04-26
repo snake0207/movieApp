@@ -5,7 +5,8 @@
     {
       "src": "/movieApp/maskable_icon_x96.png",
       "type": "image/png",
-      "sizes": "96x96"
+      "sizes": "96x96",
+      "purpose": "any"
     },
     {
       "src": "/movieApp/maskable_icon_x192.png",
