@@ -27,7 +27,7 @@
   "background_color": "#ffffff",
   "description": "Search for a movie and explain it's information",
   "dir": "ltr",
-  "scope": "/public",
+  "scope": "/.",
   "lang": "en",
   "orientation": "portrait",
   "shortcuts": [
