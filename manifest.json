@@ -33,12 +33,12 @@
     {
       "name": "home",
       "url": "https://snake0207.github.io/movieApp/",
-      "description": ""
+      "description": "main page"
     },
     {
       "name": "detail",
       "url": "https://snake0207.github.io/movieApp/movie",
-      "description": ""
+      "description": "explain movie"
     }
   ],
   "categories": ["lifestyle"],
