@@ -3,25 +3,25 @@
   "name": "Search Movie",
   "icons": [
     {
-      "src": "/movieApp/maskable_icon_x96.png",
+      "src": "maskable_icon_x96.png",
       "type": "image/png",
       "sizes": "96x96",
       "purpose": "any"
     },
     {
-      "src": "/movieApp/maskable_icon_x192.png",
+      "src": "maskable_icon_x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "/movieApp/maskable_icon_x512.png",
+      "src": "maskable_icon_x512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"
     }
   ],
-  "start_url": "/movieApp",
+  "start_url": "https://snake0207.github.io/movieApp",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
