@@ -28,5 +28,26 @@
   "dir": "ltr",
   "scope": "https://snake0207.github.io/movieApp/",
   "lang": "en",
-  "orientation": "portrait"
+  "orientation": "portrait",
+  "shortcuts": [
+    {
+      "name": "home",
+      "url": "/",
+      "description": ""
+    },
+    {
+      "name": "detail",
+      "url": "/movie",
+      "description": ""
+    }
+  ],
+  "categories": ["lifestyle"],
+  "screenshots": [
+    {
+      "src": "screenshot.jpg",
+      "sizes": "1280x800",
+      "type": "image/png",
+      "platform": "wide"
+    }
+  ]
 }
