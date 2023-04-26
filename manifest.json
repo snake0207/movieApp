@@ -27,13 +27,13 @@
   "background_color": "#ffffff",
   "description": "Search for a movie and explain it's information",
   "dir": "ltr",
-  "scope": "https://snake0207.github.io/movieApp/",
+  "scope": "https://snake0207.github.io/movieApp",
   "lang": "en",
   "orientation": "portrait",
   "shortcuts": [
     {
       "name": "home",
-      "url": "https://snake0207.github.io/movieApp/",
+      "url": "https://snake0207.github.io/movieApp",
       "description": "main page"
     },
     {
