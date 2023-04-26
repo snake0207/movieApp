@@ -21,13 +21,13 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": "/",
+  "start_url": "/movieApp",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "description": "Search for a movie and explain it's information",
   "dir": "ltr",
-  "scope": "/",
+  "scope": "/movieApp",
   "lang": "en",
   "orientation": "portrait",
   "shortcuts": [
