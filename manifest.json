@@ -21,24 +21,24 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": "./",
+  "start_url": "https://snake0207.github.io/movieApp",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "description": "Search for a movie and explain it's information",
   "dir": "ltr",
-  "scope": ".",
+  "scope": "https://snake0207.github.io/movieApp",
   "lang": "en",
   "orientation": "portrait",
   "shortcuts": [
     {
       "name": "home",
-      "url": "/",
+      "url": "https://snake0207.github.io/movieApp",
       "description": "main page"
     },
     {
       "name": "detail",
-      "url": "/movie",
+      "url": "https://snake0207.github.io/movieApp/movie",
       "description": "explain movie"
     }
   ],
