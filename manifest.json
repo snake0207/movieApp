@@ -3,19 +3,18 @@
   "name": "Search Movie",
   "icons": [
     {
-      "src": "movie_icon.ico",
-      "type": "image/ico",
-      "sizes": "256x256",
-      "purpose": "any"
+      "src": "/maskable_icon_x96.png",
+      "type": "image/png",
+      "sizes": "96x96"
     },
     {
-      "src": "maskable_icon_x192",
+      "src": "/maskable_icon_x192.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "maskable_icon_x512",
+      "src": "/maskable_icon_x192.png",
       "type": "image/png",
       "sizes": "512x512"
     }
@@ -32,12 +31,12 @@
   "shortcuts": [
     {
       "name": "home",
-      "url": "/",
+      "url": "https://snake0207.github.io/movieApp/",
       "description": ""
     },
     {
       "name": "detail",
-      "url": "/movie",
+      "url": "https://snake0207.github.io/movieApp/movie",
       "description": ""
     }
   ],
@@ -45,8 +44,8 @@
   "screenshots": [
     {
       "src": "screenshot.jpg",
-      "sizes": "1280x800",
-      "type": "image/png",
+      "sizes": "1025x770",
+      "type": "image/jpg",
       "platform": "wide"
     }
   ]
