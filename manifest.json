@@ -33,12 +33,12 @@
   "shortcuts": [
     {
       "name": "home",
-      "url": "https://snake0207.github.io/movieApp",
+      "url": "/",
       "description": "main page"
     },
     {
       "name": "detail",
-      "url": "https://snake0207.github.io/movieApp/movie",
+      "url": "/movie",
       "description": "explain movie"
     }
   ],
