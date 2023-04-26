@@ -21,13 +21,13 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": "/movieApp",
+  "start_url": "https://snake0207.github.io/movieApp",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "description": "Search for a movie and explain it's information",
   "dir": "ltr",
-  "scope": "/movieApp",
+  "scope": "https://snake0207.github.io/movieApp",
   "lang": "en",
   "orientation": "portrait",
   "shortcuts": [
