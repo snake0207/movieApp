@@ -28,7 +28,7 @@
   "description": "Search for a movie and explain it's information",
   "dir": "ltr",
   "scope": ".",
-  "start_url": "./",
+  "start_url": "./public/index.html",
   "lang": "en",
   "shortcuts": [
     {
