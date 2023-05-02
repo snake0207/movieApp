@@ -1,6 +1,6 @@
 {
-  "short_name": "Movie",
   "name": "Search Movie",
+  "short_name": "Movie",
   "icons": [
     {
       "src": "maskable_icon_x96.png",
@@ -21,15 +21,15 @@
       "purpose": "maskable"
     }
   ],
-  "start_url": "./",
   "display": "standalone",
+  "orientation": "portrait",
   "theme_color": "#000000",
   "background_color": "#ffffff",
   "description": "Search for a movie and explain it's information",
   "dir": "ltr",
   "scope": ".",
+  "start_url": "./",
   "lang": "en",
-  "orientation": "portrait",
   "shortcuts": [
     {
       "name": "home",
