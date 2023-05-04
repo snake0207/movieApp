@@ -26,6 +26,7 @@ if (workbox.navigationPreload.isSupported()) {
 }
 
 self.addEventListener("fetch", (event) => {
+  console.log(event.target);
   if (event.request.mode === "navigate") {
     event.respondWith(
       (async () => {

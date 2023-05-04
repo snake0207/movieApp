@@ -28,20 +28,8 @@
   "description": "Search for a movie and explain it's information",
   "dir": "ltr",
   "scope": ".",
-  "start_url": "./public/index.html",
+  "start_url": "./",
   "lang": "en",
-  "shortcuts": [
-    {
-      "name": "home",
-      "url": "https://snake0207.github.io/movieApp",
-      "description": "main page"
-    },
-    {
-      "name": "detail",
-      "url": "https://snake0207.github.io/movieApp/movie",
-      "description": "explain movie"
-    }
-  ],
   "categories": ["lifestyle"],
   "screenshots": [
     {
